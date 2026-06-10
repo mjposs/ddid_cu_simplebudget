@@ -169,9 +169,7 @@ README.md
 
 The method names and the equation numbers in the code comments refer to:
 
-- X. Chen, M. Goerigk, M. Poss. *The robust selection problem with information
-  discovery.* Discrete Applied Mathematics 382 (2026) 277–292. — the exact
-  algorithm (`ddid_mst`).
+- X. Chen, M. Poss. XXXXXXX (`ddid_mst`).
 - P. Vayanos, A. Georghiou, H. Yu. *Robust Optimization with Decision-Dependent
   Information Discovery.* Management Science 72(2) (2025) 1509–1528.
   doi:10.1287/mnsc.2021.00160 — the K-adaptability MILP (`kadapt_vayanos_mst`).
@@ -180,7 +178,3 @@ Related, on the DDID combinatorial framework (including a spanning-tree
 application): J. Omer, M. Poss, M. Rougier. *Combinatorial Robust Optimization
 with Decision-Dependent Information Discovery and Polyhedral Uncertainty.* Open
 Journal of Mathematical Optimization 5 (2024), article 5. doi:10.5802/ojmo.33.
-
-## License
-
-Add your license of choice here (e.g. MIT) before publishing.
