@@ -247,7 +247,7 @@ README.md
 
 The method names and the equation numbers in the code comments refer to:
 
-- X. Chen, M. Poss. XXXXXXX (`ddid_mst`).
+- X. Chen, M. Poss. *Decision-dependent information discovery for robust cardinality-constrained combinatorial optimization problems.* (https://hal.science/hal-05667307) (`ddid_mst`).
 - P. Vayanos, A. Georghiou, H. Yu. *Robust Optimization with Decision-Dependent
   Information Discovery.* Management Science 72(2) (2025) 1509–1528.
   doi:10.1287/mnsc.2021.00160 — the K-adaptability MILP (`kadapt_vayanos_mst`).
